@@ -39,11 +39,6 @@ const routes: Routes = [
     data: { title: 'reset password page' }
   },
 
-
-
-
-  
-
   { path: '',
     redirectTo: '/login',
     pathMatch: 'full'
